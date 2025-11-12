@@ -1,5 +1,12 @@
 ﻿# Landing Page — Nicho Moda
 
+[![Demo](https://img.shields.io/badge/demo-online-success?logo=netlify)](https://nichomoda.netlify.app/)
+
+| Tema | Stack | Demo |
+|---|---|---|
+| Moda | HTML, Tailwind CSS, JS | https://nichomoda.netlify.app/ |
+
+
 ![Preview](docs/preview.png)
 
 
