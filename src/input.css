@@ -17,11 +17,11 @@ Use este arquivo para centralizar customizações e facilitar manutenção.
 @layer components {
   /* Botão principal: usado em CTAs e formulários */
   .btn-primary {
-    @apply inline-flex items-center justify-center rounded-lg bg-zapGreen px-5 py-3 text-white font-semibold shadow-sm transition-colors duration-200 hover:bg-zapOrange focus:outline-none focus:ring-2 focus:ring-zapGreen/40;
+    @apply inline-flex items-center justify-center rounded-lg bg-zapGreen px-5 py-3 text-white font-semibold shadow-sm transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-zapGreen/40;
   }
   /* Botão secundário: usado em ações alternativas */
   .btn-secondary {
-    @apply inline-flex items-center justify-center rounded-lg bg-zapGreen px-4 py-2 text-white font-medium shadow-sm transition-colors duration-200 hover:bg-zapBlue;
+    @apply inline-flex items-center justify-center rounded-lg bg-transparent px-4 py-2 text-zapGray font-medium shadow-sm transition-colors duration-200 hover:bg-zapGreen hover:text-white border border-zapGreen;
   }
   /* Card: usado para blocos de conteúdo */
   .card {
